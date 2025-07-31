@@ -1,0 +1,618 @@
+[
+    {
+        "number_key": "6----",
+        "key": "6DDDD",
+        "key_lower": "6dddd",
+        "path": "1.wav",
+        "piano_key": "A0"
+    },
+    {
+        "number_key": "6#----",
+        "key": "6HDDDD",
+        "key_lower": "6hdddd",
+        "path": "2.wav",
+        "piano_key": "A#0/Bb0"
+    },
+    {
+        "number_key": "7----",
+        "key": "7DDDD",
+        "key_lower": "7dddd",
+        "path": "3.wav",
+        "piano_key": "B0"
+    },
+    {
+        "number_key": "1---",
+        "key": "1DDD",
+        "key_lower": "1ddd",
+        "path": "4.wav",
+        "piano_key": "C1"
+    },
+    {
+        "number_key": "1#---",
+        "key": "1HDDD",
+        "key_lower": "1hddd",
+        "path": "5.wav",
+        "piano_key": "C#1/Db1"
+    },
+    {
+        "number_key": "2---",
+        "key": "2DDD",
+        "key_lower": "2ddd",
+        "path": "6.wav",
+        "piano_key": "D1"
+    },
+    {
+        "number_key": "2#---",
+        "key": "2HDDD",
+        "key_lower": "2hddd",
+        "path": "7.wav",
+        "piano_key": "D#1/Eb1"
+    },
+    {
+        "number_key": "3---",
+        "key": "3DDD",
+        "key_lower": "3ddd",
+        "path": "8.wav",
+        "piano_key": "E1"
+    },
+    {
+        "number_key": "4---",
+        "key": "4DDD",
+        "key_lower": "4ddd",
+        "path": "9.wav",
+        "piano_key": "F1"
+    },
+    {
+        "number_key": "4#---",
+        "key": "4HDDD",
+        "key_lower": "4hddd",
+        "path": "10.wav",
+        "piano_key": "F#1/Gb1"
+    },
+    {
+        "number_key": "5---",
+        "key": "5DDD",
+        "key_lower": "5ddd",
+        "path": "11.wav",
+        "piano_key": "G1"
+    },
+    {
+        "number_key": "5#---",
+        "key": "5HDDD",
+        "key_lower": "5hddd",
+        "path": "12.wav",
+        "piano_key": "G#1/Ab1"
+    },
+    {
+        "number_key": "6---",
+        "key": "6DDD",
+        "key_lower": "6ddd",
+        "path": "13.wav",
+        "piano_key": "A1"
+    },
+    {
+        "number_key": "6#---",
+        "key": "6HDDD",
+        "key_lower": "6hddd",
+        "path": "14.wav",
+        "piano_key": "A#1/Bb1"
+    },
+    {
+        "number_key": "7---",
+        "key": "7DDD",
+        "key_lower": "7ddd",
+        "path": "15.wav",
+        "piano_key": "B1"
+    },
+    {
+        "number_key": "1--",
+        "key": "1DD",
+        "key_lower": "1dd",
+        "path": "16.wav",
+        "piano_key": "C2"
+    },
+    {
+        "number_key": "1#--",
+        "key": "1HDD",
+        "key_lower": "1hdd",
+        "path": "17.wav",
+        "piano_key": "C#2/Db2"
+    },
+    {
+        "number_key": "2--",
+        "key": "2DD",
+        "key_lower": "2dd",
+        "path": "18.wav",
+        "piano_key": "D2"
+    },
+    {
+        "number_key": "2#--",
+        "key": "2HDD",
+        "key_lower": "2hdd",
+        "path": "19.wav",
+        "piano_key": "D#2/Eb2"
+    },
+    {
+        "number_key": "3--",
+        "key": "3DD",
+        "key_lower": "3dd",
+        "path": "20.wav",
+        "piano_key": "E2"
+    },
+    {
+        "number_key": "4--",
+        "key": "4DD",
+        "key_lower": "4dd",
+        "path": "21.wav",
+        "piano_key": "F2"
+    },
+    {
+        "number_key": "4#--",
+        "key": "4HDD",
+        "key_lower": "4hdd",
+        "path": "22.wav",
+        "piano_key": "F#2/Gb2"
+    },
+    {
+        "number_key": "5--",
+        "key": "5DD",
+        "key_lower": "5dd",
+        "path": "23.wav",
+        "piano_key": "G2"
+    },
+    {
+        "number_key": "5#--",
+        "key": "5HDD",
+        "key_lower": "5hdd",
+        "path": "24.wav",
+        "piano_key": "G#2/Ab2"
+    },
+    {
+        "number_key": "6--",
+        "key": "6DD",
+        "key_lower": "6dd",
+        "path": "25.wav",
+        "piano_key": "A2"
+    },
+    {
+        "number_key": "6#--",
+        "key": "6HDD",
+        "key_lower": "6hdd",
+        "path": "26.wav",
+        "piano_key": "A#2/Bb2"
+    },
+    {
+        "number_key": "7--",
+        "key": "7DD",
+        "key_lower": "7dd",
+        "path": "27.wav",
+        "piano_key": "B2"
+    },
+    {
+        "number_key": "1-",
+        "key": "1D",
+        "key_lower": "1d",
+        "path": "28.wav",
+        "piano_key": "C3"
+    },
+    {
+        "number_key": "1#-",
+        "key": "1HD",
+        "key_lower": "1hd",
+        "path": "29.wav",
+        "piano_key": "C#3/Db3"
+    },
+    {
+        "number_key": "2-",
+        "key": "2D",
+        "key_lower": "2d",
+        "path": "30.wav",
+        "piano_key": "D3"
+    },
+    {
+        "number_key": "2#-",
+        "key": "2HD",
+        "key_lower": "2hd",
+        "path": "31.wav",
+        "piano_key": "D#3/Eb3"
+    },
+    {
+        "number_key": "3-",
+        "key": "3D",
+        "key_lower": "3d",
+        "path": "32.wav",
+        "piano_key": "E3"
+    },
+    {
+        "number_key": "4-",
+        "key": "4D",
+        "key_lower": "4d",
+        "path": "33.wav",
+        "piano_key": "F3"
+    },
+    {
+        "number_key": "4#-",
+        "key": "4HD",
+        "key_lower": "4hd",
+        "path": "34.wav",
+        "piano_key": "F#3/Gb3"
+    },
+    {
+        "number_key": "5-",
+        "key": "5D",
+        "key_lower": "5d",
+        "path": "35.wav",
+        "piano_key": "G3"
+    },
+    {
+        "number_key": "5#-",
+        "key": "5HD",
+        "key_lower": "5hd",
+        "path": "36.wav",
+        "piano_key": "G#3/Ab3"
+    },
+    {
+        "number_key": "6-",
+        "key": "6D",
+        "key_lower": "6d",
+        "path": "37.wav",
+        "piano_key": "A3"
+    },
+    {
+        "number_key": "6#-",
+        "key": "6HD",
+        "key_lower": "6hd",
+        "path": "38.wav",
+        "piano_key": "A#3/Bb3"
+    },
+    {
+        "number_key": "7-",
+        "key": "7D",
+        "key_lower": "7d",
+        "path": "39.wav",
+        "piano_key": "B3"
+    },
+    {
+        "number_key": "1",
+        "key": "1",
+        "key_lower": "1",
+        "path": "40.wav",
+        "piano_key": "C4"
+    },
+    {
+        "number_key": "1#",
+        "key": "1H",
+        "key_lower": "1h",
+        "path": "41.wav",
+        "piano_key": "C#4/Db4"
+    },
+    {
+        "number_key": "2",
+        "key": "2",
+        "key_lower": "2",
+        "path": "42.wav",
+        "piano_key": "D4"
+    },
+    {
+        "number_key": "2#",
+        "key": "2H",
+        "key_lower": "2h",
+        "path": "43.wav",
+        "piano_key": "D#4/Eb4"
+    },
+    {
+        "number_key": "3",
+        "key": "3",
+        "key_lower": "3",
+        "path": "44.wav",
+        "piano_key": "E4"
+    },
+    {
+        "number_key": "4",
+        "key": "4",
+        "key_lower": "4",
+        "path": "45.wav",
+        "piano_key": "F4"
+    },
+    {
+        "number_key": "4#",
+        "key": "4H",
+        "key_lower": "4h",
+        "path": "46.wav",
+        "piano_key": "F#4/Gb4"
+    },
+    {
+        "number_key": "5",
+        "key": "5",
+        "key_lower": "5",
+        "path": "47.wav",
+        "piano_key": "G4"
+    },
+    {
+        "number_key": "5#",
+        "key": "5H",
+        "key_lower": "5h",
+        "path": "48.wav",
+        "piano_key": "G#4/Ab4"
+    },
+    {
+        "number_key": "6",
+        "key": "6",
+        "key_lower": "6",
+        "path": "49.wav",
+        "piano_key": "A4"
+    },
+    {
+        "number_key": "6#",
+        "key": "6H",
+        "key_lower": "6h",
+        "path": "50.wav",
+        "piano_key": "A#4/Bb4"
+    },
+    {
+        "number_key": "7",
+        "key": "7",
+        "key_lower": "7",
+        "path": "51.wav",
+        "piano_key": "B4"
+    },
+    {
+        "number_key": "1+",
+        "key": "1U",
+        "key_lower": "1u",
+        "path": "52.wav",
+        "piano_key": "C5"
+    },
+    {
+        "number_key": "1#+",
+        "key": "1HU",
+        "key_lower": "1hu",
+        "path": "53.wav",
+        "piano_key": "C#5/Db5"
+    },
+    {
+        "number_key": "2+",
+        "key": "2U",
+        "key_lower": "2u",
+        "path": "54.wav",
+        "piano_key": "D5"
+    },
+    {
+        "number_key": "2#+",
+        "key": "2HU",
+        "key_lower": "2hu",
+        "path": "55.wav",
+        "piano_key": "D#5/Eb5"
+    },
+    {
+        "number_key": "3+",
+        "key": "3U",
+        "key_lower": "3u",
+        "path": "56.wav",
+        "piano_key": "E5"
+    },
+    {
+        "number_key": "4+",
+        "key": "4U",
+        "key_lower": "4u",
+        "path": "57.wav",
+        "piano_key": "F5"
+    },
+    {
+        "number_key": "4#+",
+        "key": "4HU",
+        "key_lower": "4hu",
+        "path": "58.wav",
+        "piano_key": "F#5/Gb5"
+    },
+    {
+        "number_key": "5+",
+        "key": "5U",
+        "key_lower": "5u",
+        "path": "59.wav",
+        "piano_key": "G5"
+    },
+    {
+        "number_key": "5#+",
+        "key": "5HU",
+        "key_lower": "5hu",
+        "path": "60.wav",
+        "piano_key": "G#5/Ab5"
+    },
+    {
+        "number_key": "6+",
+        "key": "6U",
+        "key_lower": "6u",
+        "path": "61.wav",
+        "piano_key": "A5"
+    },
+    {
+        "number_key": "6#+",
+        "key": "6HU",
+        "key_lower": "6hu",
+        "path": "62.wav",
+        "piano_key": "A#5/Bb5"
+    },
+    {
+        "number_key": "7+",
+        "key": "7U",
+        "key_lower": "7u",
+        "path": "63.wav",
+        "piano_key": "B5"
+    },
+    {
+        "number_key": "1++",
+        "key": "1UU",
+        "key_lower": "1uu",
+        "path": "64.wav",
+        "piano_key": "C6"
+    },
+    {
+        "number_key": "1#++",
+        "key": "1HUU",
+        "key_lower": "1huu",
+        "path": "65.wav",
+        "piano_key": "C#6/Db6"
+    },
+    {
+        "number_key": "2++",
+        "key": "2UU",
+        "key_lower": "2uu",
+        "path": "66.wav",
+        "piano_key": "D6"
+    },
+    {
+        "number_key": "2#++",
+        "key": "2HUU",
+        "key_lower": "2huu",
+        "path": "67.wav",
+        "piano_key": "D#6/Eb6"
+    },
+    {
+        "number_key": "3++",
+        "key": "3UU",
+        "key_lower": "3uu",
+        "path": "68.wav",
+        "piano_key": "E6"
+    },
+    {
+        "number_key": "4++",
+        "key": "4UU",
+        "key_lower": "4uu",
+        "path": "69.wav",
+        "piano_key": "F6"
+    },
+    {
+        "number_key": "4#++",
+        "key": "4HUU",
+        "key_lower": "4huu",
+        "path": "70.wav",
+        "piano_key": "F#6/Gb6"
+    },
+    {
+        "number_key": "5++",
+        "key": "5UU",
+        "key_lower": "5uu",
+        "path": "71.wav",
+        "piano_key": "G6"
+    },
+    {
+        "number_key": "5#++",
+        "key": "5HUU",
+        "key_lower": "5huu",
+        "path": "72.wav",
+        "piano_key": "G#6/Ab6"
+    },
+    {
+        "number_key": "6++",
+        "key": "6UU",
+        "key_lower": "6uu",
+        "path": "73.wav",
+        "piano_key": "A6"
+    },
+    {
+        "number_key": "6#++",
+        "key": "6HUU",
+        "key_lower": "6huu",
+        "path": "74.wav",
+        "piano_key": "A#6/Bb6"
+    },
+    {
+        "number_key": "7++",
+        "key": "7UU",
+        "key_lower": "7uu",
+        "path": "75.wav",
+        "piano_key": "B6"
+    },
+    {
+        "number_key": "1+++",
+        "key": "1UUU",
+        "key_lower": "1uuu",
+        "path": "76.wav",
+        "piano_key": "C7"
+    },
+    {
+        "number_key": "1#+++",
+        "key": "1HUUU",
+        "key_lower": "1huuu",
+        "path": "77.wav",
+        "piano_key": "C#7/Db7"
+    },
+    {
+        "number_key": "2+++",
+        "key": "2UUU",
+        "key_lower": "2uuu",
+        "path": "78.wav",
+        "piano_key": "D7"
+    },
+    {
+        "number_key": "2#+++",
+        "key": "2HUUU",
+        "key_lower": "2huuu",
+        "path": "79.wav",
+        "piano_key": "D#7/Eb7"
+    },
+    {
+        "number_key": "3+++",
+        "key": "3UUU",
+        "key_lower": "3uuu",
+        "path": "80.wav",
+        "piano_key": "E7"
+    },
+    {
+        "number_key": "4+++",
+        "key": "4UUU",
+        "key_lower": "4uuu",
+        "path": "81.wav",
+        "piano_key": "F7"
+    },
+    {
+        "number_key": "4#+++",
+        "key": "4HUUU",
+        "key_lower": "4huuu",
+        "path": "82.wav",
+        "piano_key": "F#7/Gb7"
+    },
+    {
+        "number_key": "5+++",
+        "key": "5UUU",
+        "key_lower": "5uuu",
+        "path": "83.wav",
+        "piano_key": "G7"
+    },
+    {
+        "number_key": "5#+++",
+        "key": "5HUUU",
+        "key_lower": "5huuu",
+        "path": "84.wav",
+        "piano_key": "G#7/Ab7"
+    },
+    {
+        "number_key": "6+++",
+        "key": "6UUU",
+        "key_lower": "6uuu",
+        "path": "85.wav",
+        "piano_key": "A7"
+    },
+    {
+        "number_key": "6#+++",
+        "key": "6HUUU",
+        "key_lower": "6huuu",
+        "path": "86.wav",
+        "piano_key": "A#7/Bb7"
+    },
+    {
+        "number_key": "7+++",
+        "key": "7UUU",
+        "key_lower": "7uuu",
+        "path": "87.wav",
+        "piano_key": "B7"
+    },
+    {
+        "number_key": "8++++",
+        "key": "8UUUU",
+        "key_lower": "8uuuu",
+        "path": "88.wav",
+        "piano_key": "C8"
+    }
+]
